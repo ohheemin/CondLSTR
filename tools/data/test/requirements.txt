@@ -1,0 +1,10 @@
+pytest
+expecttest
+fsspec
+numpy<2
+datasets @ git+https://github.com/huggingface/datasets@main
+graphviz
+adlfs
+awscli>=1.27.66
+psutil
+parameterized
